@@ -6,7 +6,19 @@ public class GameManager : MonoBehaviour
 {
     public List<LootByQuality> lootDictionary;
 
-    public void OnGenerate()
+    private InputSystem_Actions inputActions;
+
+    private void Awake()
+    {
+        inputActions = new InputSystem_Actions();
+        inputActions.Player.GiveCard.performed += ctx => OnGiveCard();
+    }
+
+    private void OnEnable() { inputActions.Enable(); }
+
+    private void OnDisable() { inputActions.Disable(); }
+
+    public void OnGiveCard()
     {
         ItemData obtainedItem = GetRandomItem(ItemQuality.Epic);
 
@@ -16,7 +28,7 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            Debug.Log("No items found in this quality list.");
+            Debug.Log("No items found.");
         }
     }
 

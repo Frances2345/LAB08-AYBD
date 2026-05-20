@@ -15,3 +15,8 @@ public struct LootByQuality
     public ItemQuality quality;
     public List<ItemData> itemList;
 }
+
+public class LootStructure : MonoBehaviour
+{
+
+}
