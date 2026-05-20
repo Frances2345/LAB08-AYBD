@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Item 44
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
   Name: Marea oscura
-  ID: 42
+  ID: 22
   Description: Reduce la resistencia del enemigo

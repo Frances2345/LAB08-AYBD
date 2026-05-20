@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Item 19
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
   Name: Romper los Limites
-  ID: 42
+  ID: 11
   Description: "Aumenta el da\xF1o un 300% cuando estas al 5% de vida"

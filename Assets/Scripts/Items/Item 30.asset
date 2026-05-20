@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Item 30
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
   Name: A todos los que odio
-  ID: 42
+  ID: 45
   Description: "Da\xF1o Aumentado un 75% contra enemigos dominantes"

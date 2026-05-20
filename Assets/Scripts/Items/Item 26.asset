@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d86ae291cdd01724ba523573788e67aa, type: 3}
   m_Name: Item 26
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  Name: Llave Mistica
+  Name: Augurio Ancestral
   ID: 38
-  Description: Abre zonas misteriosas
+  Description: Permite presagiar enemigos

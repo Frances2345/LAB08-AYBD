@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
   Name: Reaccion
   ID: 20
-  Description: Inmune a Aturdimiento
+  Description: Inmune a Aturdimiento al momento de sufrir una

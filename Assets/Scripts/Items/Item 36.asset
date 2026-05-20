@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d86ae291cdd01724ba523573788e67aa, type: 3}
   m_Name: Item 36
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  Name: Bolsa de Goblins
+  Name: Destruccion Inminente
   ID: 28
-  Description: Alamacenas Monedas verdes
+  Description: Almacenas criticos para superataques

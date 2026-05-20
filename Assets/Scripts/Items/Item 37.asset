@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Item 37
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
   Name: Saco de los Caidos
-  ID: 42
+  ID: 7
   Description: Almacena muertes y las convierte en mejoras temporales

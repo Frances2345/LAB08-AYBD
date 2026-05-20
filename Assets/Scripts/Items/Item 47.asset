@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Item 47
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
   Name: Provocacion
-  ID: 42
+  ID: 47
   Description: Reduce la Precision del Oponente
